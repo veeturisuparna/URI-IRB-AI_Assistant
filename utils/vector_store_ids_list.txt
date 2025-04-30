@@ -1,0 +1,1 @@
+my_knowledge_store_vector_id = 'vs_6812a49209d0819188df293cea4867f1'
